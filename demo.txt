@@ -1,0 +1,21 @@
+hello simplilearn
+
+Dell@Dell-PC MINGW64 ~
+$ git version
+git version 2.34.1.windows.1
+
+Dell@Dell-PC MINGW64 ~
+$ git help config
+
+Dell@Dell-PC MINGW64 ~
+$ mkdir test
+
+Dell@Dell-PC MINGW64 ~
+$ cd test
+
+Dell@Dell-PC MINGW64 ~/test
+$ git init
+Initialized empty Git repository in C:/Users/Dell/test/.git/
+
+Dell@Dell-PC MINGW64 ~/test (master)
+$
